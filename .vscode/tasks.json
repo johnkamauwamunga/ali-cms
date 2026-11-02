@@ -1,0 +1,50 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Build portfolio CMS",
+			"type": "shell",
+			"command": "cmd.exe",
+			"args": [
+				"/c",
+				"npm run build"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Run portfolio CMS",
+			"type": "shell",
+			"command": "cmd.exe",
+			"args": [
+				"/c",
+				"npm run dev -- --host 127.0.0.1"
+			],
+			"isBackground": true,
+			"problemMatcher": {
+				"owner": "vite",
+				"pattern": {
+					"regexp": ".*"
+				},
+				"background": {
+					"activeOnStart": true,
+					"beginsPattern": "VITE v",
+					"endsPattern": "http://127\\.0\\.0\\.1:5173/"
+				}
+			}
+		},
+		{
+			"label": "Install Simple Icons",
+			"type": "shell",
+			"command": "cmd.exe",
+			"args": [
+				"/c",
+				"npm install @icons-pack/react-simple-icons --save --no-audit --no-fund"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
