@@ -2,23 +2,23 @@
   "profile": {
     "id": "profile-001",
     "fullName": "Ali Alhaji",
-    "firstName": "Alhaji",
+    "firstName": "Ali",
     "professionalTitle": "Full-Stack Developer",
     "tagline": "Building digital experiences that make a difference.",
     "shortIntroduction": "I build reliable, thoughtful digital products that help people and businesses move forward.",
     "biography": "I'm a Dubai-based software engineer with a Computer Science background and experience across product development, customer support, training, and operations. I enjoy turning complex problems into straightforward, dependable software, and collaborating with teams that care about the details.",
-    "profileImage": "../../public/john1.jpeg",
+    "profileImage": "../../assets/1.jpeg",
     "location": "Dubai, UAE",
-    "email": "john.kamau@example.com",
+    "email": "alhajialinda7@gmail.com ",
     "phone": "",
-    "cvUrl": "https://example.com/john-kamau-cv.pdf",
+    "cvUrl": "https://example.com/ali-alhaji.pdf",
     "socialLinks": {
       "github": "https://github.com/",
       "linkedin": "https://linkedin.com/"
     }
   },
   "navigation": {
-    "logo": "JK",
+    "logo": "AA",
     "items": [
       { "label": "About", "href": "#about" },
       { "label": "Experience", "href": "#experience" },
@@ -36,11 +36,11 @@
     ]
   },
   "experience": [
-    {
-      "id": "exp-northstar",
-      "title": "Full-Stack Developer",
-      "company": "Northstar Digital",
-      "companyLogo": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?auto=format&fit=crop&w=160&q=80",
+        {
+      "id": "Al-Ghurair-Company",
+      "title": "Office Administrator",
+      "company": "Al Ghurair Company",
+      "companyLogo": "../../assets/LOGO.jpeg",
       "location": "Dubai, UAE",
       "employmentType": "Full-time",
       "startDate": "2023-04",
@@ -55,11 +55,29 @@
       "updatedAt": "2024-01-15T09:00:00.000Z"
     },
     {
+      "id": "exp-northstar",
+      "title": "Graphic Designer",
+      "company": "TESLA SCHOOLS UGANDA.",
+      "companyLogo": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?auto=format&fit=crop&w=160&q=80",
+      "location": "Kampala, Uganda",
+      "employmentType": "Full-time",
+      "startDate": "2021-04",
+      "endDate": "",
+      "current": true,
+      "responsibilities": ["Build and maintain customer-facing web applications", "Partner with product and design to ship accessible features"],
+      "achievements": ["Reduced average page load time by 35% through targeted performance improvements"],
+      "technologies": ["React", "Node.js", "PostgreSQL"],
+      "published": true,
+      "sortOrder": 0,
+      "createdAt": "2023-04-03T09:00:00.000Z",
+      "updatedAt": "2024-01-15T09:00:00.000Z"
+    },
+    {
       "id": "exp-bridge",
-      "title": "Technical Support & Training Specialist",
-      "company": "Bridgepoint Services",
+      "title": "Data entry and IT personnel",
+      "company": "UGANDA BUREAU OF STATISTICS (UBOS) ",
       "companyLogo": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=160&q=80",
-      "location": "Nairobi, Kenya",
+      "location": "Kampala, Uganda",
       "employmentType": "Full-time",
       "startDate": "2020-06",
       "endDate": "2023-03",
@@ -134,12 +152,26 @@
   "education": [
     {
       "id": "edu-compsci",
-      "institution": "University of Nairobi",
-      "qualification": "Bachelor of Science",
+      "institution": "YMCA COMPREHENSIVE INSTITUTE ",
+      "qualification": "Science",
       "fieldOfStudy": "Computer Science",
-      "startDate": "2016-09",
-      "endDate": "2020-05",
-      "location": "Nairobi, Kenya",
+      "startDate": "2024-02",
+      "endDate": "2025-012",
+      "location": "Kampala, Uganda",
+      "description": "Focused on software engineering, databases, and human-computer interaction.",
+      "published": true,
+      "sortOrder": 0,
+      "createdAt": "2016-09-01T00:00:00.000Z",
+      "updatedAt": "2020-05-30T00:00:00.000Z"
+    },
+       {
+      "id": "edu-compsci",
+      "institution": "DUHAGA SECONDARY SCHOOL",
+      "qualification": "HIGH SCHOOL DIPLOMA",
+      "fieldOfStudy": "",
+      "startDate": "2015-01",
+      "endDate": "2019-12",
+      "location": "Kampala, Uganda",
       "description": "Focused on software engineering, databases, and human-computer interaction.",
       "published": true,
       "sortOrder": 0,
@@ -185,7 +217,7 @@
     }
   ],
   "contact": {
-    "email": "john.kamau@example.com",
+    "email": "alhajialinda7@gmail.com ",
     "location": "Dubai, UAE",
     "socialLinks": {
       "github": "https://github.com/",
@@ -199,9 +231,9 @@
   "settings": {
     "theme": "system",
     "accentColor": "#c45d3a",
-    "websiteTitle": "John Kamau — Full-Stack Developer",
-    "websiteDescription": "Portfolio of John Kamau, a full-stack developer in Dubai.",
-    "defaultCv": "https://example.com/john-kamau-cv.pdf",
+    "websiteTitle": "Ali Alhaji — Full-Stack Developer",
+    "websiteDescription": "Portfolio of Ali Alhaji, a full-stack developer in Dubai.",
+    "defaultCv": "https://example.com/ali-alhaji-cv.pdf",
     "defaultProfileImage": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=900&q=85",
     "sectionVisibility": {
       "about": true,
@@ -247,7 +279,7 @@
     "pageMargins": 18
   },
   "authSettings": {
-    "adminEmail": "john.kamau@example.com",
+    "adminEmail": "alhajialinda7@gmail.com ",
     "adminPhone": "",
     "loginTitle": "Welcome back",
     "loginSubtitle": "Your Portfolio Workspace",
