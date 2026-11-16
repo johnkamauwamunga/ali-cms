@@ -11,7 +11,7 @@
     "location": "Dubai, UAE",
     "email": "alhajialinda7@gmail.com ",
     "phone": "",
-    "cvUrl": "https://example.com/ali-alhaji.pdf",
+    "cvUrl": "https://example.com/alinda-alhaji.pdf",
     "socialLinks": {
       "github": "https://github.com/",
       "linkedin": "https://linkedin.com/"
@@ -62,7 +62,7 @@
       "location": "Kampala, Uganda",
       "employmentType": "Full-time",
       "startDate": "2021-04",
-      "endDate": "",
+      "endDate": "2023-03",
       "current": true,
       "responsibilities": ["Build and maintain customer-facing web applications", "Partner with product and design to ship accessible features"],
       "achievements": ["Reduced average page load time by 35% through targeted performance improvements"],
@@ -231,9 +231,9 @@
   "settings": {
     "theme": "system",
     "accentColor": "#c45d3a",
-    "websiteTitle": "Ali Alhaji — Full-Stack Developer",
+    "websiteTitle": "Alinda Alhaji — Full-Stack Developer",
     "websiteDescription": "Portfolio of Ali Alhaji, a full-stack developer in Dubai.",
-    "defaultCv": "https://example.com/ali-alhaji-cv.pdf",
+    "defaultCv": "https://example.com/alinda-alhaji-cv.pdf",
     "defaultProfileImage": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=900&q=85",
     "sectionVisibility": {
       "about": true,
@@ -279,7 +279,7 @@
     "pageMargins": 18
   },
   "authSettings": {
-    "adminEmail": "alhajialinda7@gmail.com ",
+    "adminEmail": "alhajialinda7@gmail.com",
     "adminPhone": "",
     "loginTitle": "Welcome back",
     "loginSubtitle": "Your Portfolio Workspace",
