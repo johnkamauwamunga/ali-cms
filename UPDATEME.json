@@ -1,0 +1,292 @@
+{
+  "profile": {
+    "id": "profile-001",
+    "fullName": "Alinda Alhaji",
+    "firstName": "Alinda Alhaji",
+    "professionalTitle": "Full-Stack Developer",
+    "tagline": "Building digital experiences that make a difference.",
+    "shortIntroduction": "I build reliable, thoughtful digital products that help people and businesses move forward.",
+    "biography": "I'm a Dubai-based software engineer with a Computer Science background and experience across product development, customer support, training, and operations. I enjoy turning complex problems into straightforward, dependable software, and collaborating with teams that care about the details.",
+    "profileImage": "../../public/assets/1.jpeg",
+    "location": "Dubai, UAE",
+    "email": "alhajialinda7@gmail.com ",
+    "phone": "",
+    "cvUrl": "https://example.com/alinda-alhaji.pdf",
+    "socialLinks": {
+      "github": "https://github.com/",
+      "linkedin": "https://linkedin.com/"
+    }
+  },
+  "navigation": {
+    "logo": "AA",
+    "items": [
+      { "label": "About", "href": "#about" },
+      { "label": "Experience", "href": "#experience" },
+      { "label": "Projects", "href": "#projects" },
+      { "label": "Contact", "href": "#contact" }
+    ]
+  },
+  "about": {
+    "title": "A little about me",
+    "description": "I combine hands-on engineering with a people-first approach shaped by customer-facing and operations roles.",
+    "statistics": [
+      { "label": "Years building", "value": "5+" },
+      { "label": "Products shipped", "value": "12" },
+      { "label": "Based in", "value": "Dubai" }
+    ]
+  },
+  "experience": [
+        {
+      "id": "Al-Ghurair-Company",
+      "title": "Office Administrator",
+      "company": "Al Ghurair Company",
+      "companyLogo": "../../public/assets/LOGO.jpeg",
+      "location": "Dubai, UAE",
+      "employmentType": "Full-time",
+      "startDate": "2023-04",
+      "endDate": "",
+      "current": true,
+      "responsibilities": ["Build and maintain customer-facing web applications", "Partner with product and design to ship accessible features"],
+      "achievements": ["Reduced average page load time by 35% through targeted performance improvements"],
+      "technologies": ["React", "Node.js", "PostgreSQL"],
+      "published": true,
+      "sortOrder": 0,
+      "createdAt": "2023-04-03T09:00:00.000Z",
+      "updatedAt": "2024-01-15T09:00:00.000Z"
+    },
+    {
+      "id": "exp-northstar",
+      "title": "Graphic Designer",
+      "company": "TESLA SCHOOLS UGANDA.",
+      "companyLogo": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?auto=format&fit=crop&w=160&q=80",
+      "location": "Kampala, Uganda",
+      "employmentType": "Full-time",
+      "startDate": "2021-04",
+      "endDate": "2023-03",
+      "current": true,
+      "responsibilities": ["Build and maintain customer-facing web applications", "Partner with product and design to ship accessible features"],
+      "achievements": ["Reduced average page load time by 35% through targeted performance improvements"],
+      "technologies": ["React", "Node.js", "PostgreSQL"],
+      "published": true,
+      "sortOrder": 0,
+      "createdAt": "2023-04-03T09:00:00.000Z",
+      "updatedAt": "2024-01-15T09:00:00.000Z"
+    },
+    {
+      "id": "exp-bridge",
+      "title": "Data entry and IT personnel",
+      "company": "UGANDA BUREAU OF STATISTICS (UBOS) ",
+      "companyLogo": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=160&q=80",
+      "location": "Kampala, Uganda",
+      "employmentType": "Full-time",
+      "startDate": "2020-06",
+      "endDate": "2023-03",
+      "current": false,
+      "responsibilities": ["Resolved technical issues for business customers", "Designed onboarding materials and delivered product training"],
+      "achievements": ["Improved first-contact resolution through a searchable support knowledge base"],
+      "technologies": ["Zendesk", "SQL", "Documentation"],
+      "published": true,
+      "sortOrder": 1,
+      "createdAt": "2020-06-01T09:00:00.000Z",
+      "updatedAt": "2023-03-31T09:00:00.000Z"
+    }
+  ],
+  "skills": [
+    { "id": "skill-react", "name": "React", "category": "Frontend", "icon": "react", "iconSource": "simple-icons", "published": true, "sortOrder": 0, "createdAt": "2024-01-01T00:00:00.000Z", "updatedAt": "2024-01-01T00:00:00.000Z" },
+    { "id": "skill-javascript", "name": "JavaScript", "category": "Frontend", "icon": "javascript", "iconSource": "simple-icons", "published": true, "sortOrder": 1, "createdAt": "2024-01-01T00:00:00.000Z", "updatedAt": "2024-01-01T00:00:00.000Z" },
+    { "id": "skill-node", "name": "Node.js", "category": "Backend", "icon": "nodedotjs", "iconSource": "simple-icons", "published": true, "sortOrder": 2, "createdAt": "2024-01-01T00:00:00.000Z", "updatedAt": "2024-01-01T00:00:00.000Z" },
+    { "id": "skill-postgres", "name": "PostgreSQL", "category": "Databases", "icon": "postgresql", "iconSource": "simple-icons", "published": true, "sortOrder": 3, "createdAt": "2024-01-01T00:00:00.000Z", "updatedAt": "2024-01-01T00:00:00.000Z" },
+    { "id": "skill-docker", "name": "Docker", "category": "DevOps", "icon": "docker", "iconSource": "simple-icons", "published": true, "sortOrder": 4, "createdAt": "2024-01-01T00:00:00.000Z", "updatedAt": "2024-01-01T00:00:00.000Z" },
+    { "id": "skill-collaboration", "name": "Customer collaboration", "category": "Professional", "icon": "handshake", "iconSource": "lucide", "published": true, "sortOrder": 5, "createdAt": "2024-01-01T00:00:00.000Z", "updatedAt": "2024-01-01T00:00:00.000Z" }
+  ],
+  "projects": [
+    {
+      "id": "project-atlas",
+      "slug": "atlas-workspace",
+      "title": "Atlas Workspace",
+      "description": "A collaborative workspace that brings project updates, tasks, and team knowledge into one calm, searchable home.",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=85",
+      "category": "Web application",
+      "technologies": ["React", "Node.js", "PostgreSQL"],
+      "githubUrl": "https://github.com/",
+      "liveUrl": "https://example.com",
+      "featured": true,
+      "published": true,
+      "sortOrder": 0,
+      "createdAt": "2024-03-12T10:00:00.000Z",
+      "updatedAt": "2024-05-22T10:00:00.000Z"
+    },
+    {
+      "id": "project-greengrid",
+      "slug": "greengrid",
+      "title": "GreenGrid",
+      "description": "A lightweight energy dashboard that helps households understand their consumption and make practical changes.",
+      "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?auto=format&fit=crop&w=1200&q=85",
+      "category": "Data & sustainability",
+      "technologies": ["JavaScript", "D3.js", "REST API"],
+      "githubUrl": "https://github.com/",
+      "liveUrl": "https://example.com",
+      "featured": true,
+      "published": true,
+      "sortOrder": 1,
+      "createdAt": "2023-08-05T10:00:00.000Z",
+      "updatedAt": "2024-02-15T10:00:00.000Z"
+    },
+    {
+      "id": "project-helpdesk",
+      "slug": "helpdesk-insights",
+      "title": "Helpdesk Insights",
+      "description": "A support operations tool for spotting recurring customer issues and turning feedback into product improvements.",
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?auto=format&fit=crop&w=1200&q=85",
+      "category": "Internal tools",
+      "technologies": ["React", "Express", "Chart.js"],
+      "githubUrl": "https://github.com/",
+      "liveUrl": "",
+      "featured": false,
+      "published": true,
+      "sortOrder": 2,
+      "createdAt": "2023-01-10T10:00:00.000Z",
+      "updatedAt": "2023-06-17T10:00:00.000Z"
+    }
+  ],
+  "education": [
+    {
+      "id": "edu-compsci",
+      "institution": "YMCA COMPREHENSIVE INSTITUTE ",
+      "qualification": "Science",
+      "fieldOfStudy": "Computer Science",
+      "startDate": "2024-02",
+      "endDate": "2025-012",
+      "location": "Kampala, Uganda",
+      "description": "Focused on software engineering, databases, and human-computer interaction.",
+      "published": true,
+      "sortOrder": 0,
+      "createdAt": "2016-09-01T00:00:00.000Z",
+      "updatedAt": "2020-05-30T00:00:00.000Z"
+    },
+       {
+      "id": "edu-compsci",
+      "institution": "DUHAGA SECONDARY SCHOOL",
+      "qualification": "HIGH SCHOOL DIPLOMA",
+      "fieldOfStudy": "",
+      "startDate": "2015-01",
+      "endDate": "2019-12",
+      "location": "Kampala, Uganda",
+      "description": "Focused on software engineering, databases, and human-computer interaction.",
+      "published": true,
+      "sortOrder": 0,
+      "createdAt": "2016-09-01T00:00:00.000Z",
+      "updatedAt": "2020-05-30T00:00:00.000Z"
+    }
+  ],
+  "certifications": [
+    {
+      "id": "cert-aws",
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services",
+      "issueDate": "2023-11",
+      "expirationDate": "2026-11",
+      "credentialId": "AWS-CP-2023-1042",
+      "credentialUrl": "https://aws.amazon.com/certification/",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=900&q=80",
+      "published": true,
+      "sortOrder": 0,
+      "createdAt": "2023-11-18T00:00:00.000Z",
+      "updatedAt": "2023-11-18T00:00:00.000Z"
+    }
+  ],
+  "interests": [
+    { "id": "interest-open-source", "title": "Open source", "description": "Contributing to tools that make the web more accessible and useful.", "image": "https://images.unsplash.com/photo-1556075798-4825dfaaf498?auto=format&fit=crop&w=700&q=80", "published": true, "sortOrder": 0, "createdAt": "2024-01-01T00:00:00.000Z", "updatedAt": "2024-01-01T00:00:00.000Z" },
+    { "id": "interest-running", "title": "Running", "description": "Finding new routes around the city and along the waterfront.", "image": "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?auto=format&fit=crop&w=700&q=80", "published": true, "sortOrder": 1, "createdAt": "2024-01-01T00:00:00.000Z", "updatedAt": "2024-01-01T00:00:00.000Z" }
+  ],
+  "references": [
+    {
+      "id": "reference-jane-doe",
+      "fullName": "Jane Doe",
+      "jobTitle": "Engineering Manager",
+      "organization": "Northstar Digital",
+      "relationship": "Former supervisor",
+      "email": "jane.doe@example.com",
+      "phone": "",
+      "location": "Dubai, UAE",
+      "published": true,
+      "includeInCV": false,
+      "sortOrder": 0,
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    }
+  ],
+  "contact": {
+    "email": "alhajialinda7@gmail.com ",
+    "location": "Dubai, UAE",
+    "socialLinks": {
+      "github": "https://github.com/",
+      "linkedin": "https://linkedin.com/"
+    }
+  },
+  "footer": {
+    "description": "Thoughtful software, built with care.",
+    "copyrightText": "All rights reserved."
+  },
+  "settings": {
+    "theme": "system",
+    "accentColor": "#c45d3a",
+    "websiteTitle": "Alinda Alhaji — Full-Stack Developer",
+    "websiteDescription": "Portfolio of Ali Alhaji, a full-stack developer in Dubai.",
+    "defaultCv": "https://example.com/alinda-alhaji-cv.pdf",
+    "defaultProfileImage": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=900&q=85",
+    "sectionVisibility": {
+      "about": true,
+      "experience": true,
+      "skills": true,
+      "projects": true,
+      "education": true,
+      "certifications": true,
+      "interests": true,
+      "contact": true
+    }
+  },
+  "cvSettings": {
+    "title": "Curriculum Vitae",
+    "summary": "",
+    "template": "professional",
+    "showProfileImage": false,
+    "showReferences": false,
+    "showReferenceEmail": false,
+    "showReferencePhone": false,
+    "showProjects": true,
+    "showCertifications": true,
+    "enabledSections": {
+      "summary": true,
+      "experience": true,
+      "education": true,
+      "skills": true,
+      "certifications": true,
+      "projects": true,
+      "references": false
+    },
+    "sectionOrder": ["summary", "experience", "education", "skills", "certifications", "projects", "references"],
+    "selectedIds": {
+      "experience": ["exp-northstar", "exp-bridge"],
+      "education": ["edu-compsci"],
+      "skills": ["skill-react", "skill-javascript", "skill-node", "skill-postgres", "skill-docker", "skill-collaboration"],
+      "certifications": ["cert-aws"],
+      "projects": ["project-atlas", "project-greengrid", "project-helpdesk"],
+      "references": []
+    },
+    "accentColor": "#c45d3a",
+    "fontSize": 10,
+    "pageMargins": 18
+  },
+  "authSettings": {
+    "adminEmail": "alhajialinda7@gmail.com",
+    "adminPhone": "",
+    "loginTitle": "Welcome back",
+    "loginSubtitle": "Your Portfolio Workspace",
+    "securityQuestion": "What was the name of your first school?",
+    "authenticationMethod": "password-question",
+    "sessionDurationMinutes": 60,
+    "loginAppearance": "minimal"
+  },
+  "authCredentials": null
+}
